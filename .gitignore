@@ -1,0 +1,21 @@
+# Obsidian
+.obsidian/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Temporários
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+
+# Logs
+*.log
+
+# SQLite
+*.sqlite
+*.db-shm
+*.db-wal
