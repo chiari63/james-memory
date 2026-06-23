@@ -20,6 +20,8 @@ Contexto ativo da memória persistente do James.
 - [[00_System/SCHEMA]]
 - [[00_System/OPERATING_PROTOCOL]]
 - [[01_Index/HOME]]
+- [[04_Areas/Infraestrutura Homelab]]
+- [[05_Knowledge/Resposta a Alertas do Uptime Kuma]]
 
 ## Regra
 

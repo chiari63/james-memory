@@ -36,6 +36,14 @@ Ponto de partida da memória persistente do James.
 - [[10_History/TIMELINE]] — marcos importantes.
 - [[99_Archive/README]] — itens arquivados.
 
+## Homelab
+
+- [[04_Areas/Infraestrutura Homelab]] — visão geral da infraestrutura monitorada.
+- [[02_Entities/VPS Local]] — host local `10.0.0.90`.
+- [[02_Entities/VPS Remota]] — host remoto `10.0.0.207`.
+- [[02_Entities/Uptime Kuma]] — monitoramento e webhooks.
+- [[05_Knowledge/Resposta a Alertas do Uptime Kuma]] — procedimento operacional para incidentes.
+
 ## Regra de navegação
 
 Antes de criar uma nota nova, procure se o assunto já aparece em alguma seção acima ou em [[MAPS]].
